@@ -1,0 +1,8 @@
+workspace/devel
+workspace/build
+workspace/logs
+workspace/.catkin_workspace
+*.git
+*.idea
+*cmake-build-debug
+*cmake-build-release
